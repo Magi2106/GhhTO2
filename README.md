@@ -1,2 +1,2 @@
 # GhhTO2
-Torsdagsopgave 13/09 2023
+Torsdagsopgave 14/09 2023
